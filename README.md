@@ -14,7 +14,7 @@
 
 ## ２．Arduinoへプログラム書き込み
 
-Arduino IDE を使って、プログラムをArduinoに書き込みます
+Arduino IDE を使って、同リポジトリ内の2023kyurobo.cをArduinoに書き込みます
 ※プログラムは、Arduino UNO R3 での動作を想定して書かれています
 
 ## ３．遊ぶ
