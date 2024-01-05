@@ -8,9 +8,8 @@
 ・[タクトスイッチ](https://akizukidenshi.com/catalog/g/gP-03647/)  2個 <br>
 ・[led](https://akizukidenshi.com/catalog/g/gI-11577/)  7個<br>
 ・[1ｋくらいの抵抗](https://akizukidenshi.com/catalog/g/gR-25102/)  7本<br>
-### 実装例
 
-[写真貼る]
+基板に書いてある通りに実装していきます
 
 ## ２．Arduinoへプログラム書き込み
 
